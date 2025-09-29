@@ -6,9 +6,8 @@ import { Suspense } from "react"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Bow's Eye - Precision Vision",
-  description: "Advanced URL analysis and web intelligence platform",
-  generator: "v0.app",
+  title: "Bow’s Eye - WS Project",
+  description: "WS Project crafted by Jatin Gahlot and Sachin Singhania",
 }
 
 export default function RootLayout({
